@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 
 @Aspect
 public class LoggingAspect {
-
+//test
 	/*@Before("execution(* com.mkyong.customer.bo.CustomerBo.addCustomer(..))")
 	public void logBefore(JoinPoint joinPoint) {
 
